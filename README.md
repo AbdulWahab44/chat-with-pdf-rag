@@ -41,7 +41,7 @@ This project is an AI-powered application that allows users to chat with their P
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/chat-with-pdf-rag.git
+git clone https://github.com/AbdulWahab44/chat-with-pdf-rag.git
 cd chat-with-pdf-rag
 pip install -r requirements.txt
 ```
