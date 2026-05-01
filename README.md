@@ -29,7 +29,7 @@ This project is an AI-powered application that allows users to chat with their P
 
 ## ⚙️ How It Works
 
-1. Load PDF and extract text
+1. Load PDF/CSV/TXT and extract text
 2. Split text into smaller chunks
 3. Convert text into embeddings
 4. Store embeddings in FAISS vector database
@@ -61,7 +61,7 @@ streamlit run app.py
 ```
 chat-with-pdf-rag/
 │
-├── app.py
+├── ui.py
 ├── requirements.txt
 ├── README.md
 ├── data/
